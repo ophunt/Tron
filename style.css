@@ -1,0 +1,26 @@
+body > * {
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: block;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+canvas {
+	border: 1px solid black;
+	width: 500px;
+	height: 500px;
+}
+
+button {
+	font-size: 20px;
+}
